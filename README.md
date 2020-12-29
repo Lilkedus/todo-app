@@ -1,4 +1,5 @@
-*Note: Application is sill in progress.*
+<mark style="background: lightgreen;">*Note: Application is sill in progress.*</mark>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
