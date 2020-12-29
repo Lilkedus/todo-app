@@ -1,4 +1,4 @@
-<mark style="background: lightgreen;">*Note: Application is sill in progress.*</mark>
+*Note: Application is sill in progress.*
 
 # Getting Started with Create React App
 
